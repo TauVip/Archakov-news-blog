@@ -5,4 +5,4 @@ import App from './App'
 
 ReactDOM.render(<App />, document.getElementById('root'))
 
-// ReactJS + NodeJS: Пишем агрегатор новостей #2 | 13:49
+// ReactJS + NodeJS: Пишем агрегатор новостей #2 | 1:12:18
